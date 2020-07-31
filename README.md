@@ -1,6 +1,6 @@
 # Life-Expectancy-vs-GDP-in-India
 Does life expectancy depend on GDP? A case study.
-This project has been carried out as a part of a project assignment in the 'Data Science by Python' course.
+This project has been carried out as a part of a project assignment in the course 'Python for Data Science', the first course of the EdX/UC San Diego MicroMasters in Data Science. This course has been taught by Ilkay Altintas and Leo Porter.
 
 Data Source: https://www.kaggle.com/worldbank/world-development-indicators
 
